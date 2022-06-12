@@ -1,0 +1,14 @@
+@font-face{
+    font-family:'源柔ゴシッ' ;  /* 字体名自定义 */
+    src:url('https://pic.lolicon.team/api/fonts/woff/源柔ゴシッ.woff'); /* 字体文件路径 */
+    font-display : swap;
+  }
+  h1,h2,h3,h4,h5,h6,p,a,div,span,time{
+    font-family: '源柔ゴシッ', sans-serif;
+  }
+  p{
+    font-size: 18px;
+  }
+  li{
+    font-size: 16px;
+  }
