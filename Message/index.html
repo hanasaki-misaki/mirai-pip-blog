@@ -184,7 +184,7 @@
   }
 
   if (typeof Waline === 'function') initWaline() 
-  else getScript('https://m.cdn.chs.pub/waline/1.5.4/Waline.min.js').then(initWaline)
+  else getScript('https://unpkg.com/@waline/client@2.6.0/dist/waline.js').then(initWaline)
 }
 
 if ('Waline' === 'Waline' || !false) {
