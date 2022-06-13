@@ -9,8 +9,30 @@
     <atom:link href="https://lolicon.team/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>在你心里，直到永远。</description>
-    <pubDate>Sun, 12 Jun 2022 08:14:47 GMT</pubDate>
+    <pubDate>Mon, 13 Jun 2022 11:51:33 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>最近pos机骚扰非常多</title>
+      <link>https://lolicon.team/posts/f9fd1460.html</link>
+      <guid>https://lolicon.team/posts/f9fd1460.html</guid>
+      <pubDate>Mon, 13 Jun 2022 03:30:32 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;div class=&quot;note warning flat&quot;&gt;&lt;p&gt;POS机推销猖狂，电话轮播，更有甚者与运营商合作开通了“隐私电话”（无法查询拨</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><div class="note warning flat"><p>POS机推销猖狂，电话轮播，更有甚者与运营商合作开通了“隐私电话”（无法查询拨打号码）<br>为此我需要想一个对策。</p></div><h1 id="方法一"><a href="#方法一" class="headerlink" title="方法一"></a>方法一</h1><p>物理分割法<br>将已有通讯录设置白名单其余不允许拨打（通信用机）<br>快递专用小号机（阿里小号开通60一年续费便宜）<br>优点：有效去除广告通信<br>缺点：长途计费贵（原有套餐支持无所谓）/网警打电话找你打不通(万一呢？)</p>]]></content:encoded>
+      
+      
+      
+      
+      <comments>https://lolicon.team/posts/f9fd1460.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Windows使用rsync推送博客</title>
