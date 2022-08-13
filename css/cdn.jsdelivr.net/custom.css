@@ -1,0 +1,21 @@
+@font-face{
+    font-family:'ZhuZiAYuanJWD' ;  /* 字体名自定义 */
+    src:url("https://pic.lolicon.team/api/fonts/ttf/ZhuZiAWan.ttf"), /* 字体文件路径 */
+        url('https://pic.lolicon.team/api/fonts/ttf/Candyhome.ttf');
+}
+  h1,h2,h3,h4,h5,h6,p,a,div,span,time{
+    font-family: ZhuZiAYuanJWD,-apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Lato,Roboto,"PingFang SC",STZhongsong,"Lantinghei SC",sans-serif;
+  }
+  p{
+    font-size: 18px;
+  }
+  li{
+    font-size: 16px;
+  }
+  a.article-title, a.blog-slider__title, a.categoryBar-list-link, h1.post-title{
+    font-family: Candyhome;
+  }
+  @font-face{
+    font-family:'Candyhome' ;  /* 字体名自定义 */
+    src:url('https://pic.lolicon.team/api/fonts/ttf/Candyhome.ttf'); /* 字体文件路径 */
+}
