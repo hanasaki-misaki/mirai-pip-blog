@@ -9,8 +9,27 @@
     <atom:link href="https://lolicon.team/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>在你心里，直到永远。</description>
-    <pubDate>Fri, 19 Aug 2022 06:44:18 GMT</pubDate>
+    <pubDate>Mon, 22 Aug 2022 01:55:31 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>腾讯DNS解析违规</title>
+      <link>https://lolicon.team/posts/bd1c2d6b.html</link>
+      <guid>https://lolicon.team/posts/bd1c2d6b.html</guid>
+      <pubDate>Mon, 22 Aug 2022 01:10:58 GMT</pubDate>
+      
+      <description>使用DNSpod解析阿里邮箱发现不能用，咨询客服被干成了解析违规，就离谱！.....</description>
+      
+      
+      
+      <content:encoded><![CDATA[<link rel="stylesheet" href="../css/page.css"><div class="note orange icon-padding flat"><i class="note-icon fa-solid fa-arrow-right-from-bracket"></i><p>多图警告！！！注意流量！</p></div><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>DNSPOD解析服务是正常的，DNS违规解析多半是造假的。<br>实测腾讯企业邮是支持的，Outlook也是支持的，阿里邮箱解析并不行。</p><h2 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h2><p>这件事发生在今年的七月份…<br>因为之前的旧域名使用着腾讯企业邮，所以这个域名就打算试试阿里企业邮。</p><h2 id="工程师？"><a href="#工程师？" class="headerlink" title="工程师？"></a>工程师？</h2><p><img src="https://cdn.lolicon.team/i/img/blog-posts/page/%E8%85%BE%E8%AE%AFDNS%E8%A7%A3%E6%9E%90%E8%BF%9D%E8%A7%84/f8hmvf.webp" alt="解析不生效客服会话记录01"></p><p><img src="https://cdn.lolicon.team/i/img/blog-posts/page/%E8%85%BE%E8%AE%AFDNS%E8%A7%A3%E6%9E%90%E8%BF%9D%E8%A7%84/faywg3.webp" alt="解析不生效客服会话记录02"></p><p><img src="https://cdn.lolicon.team/i/img/blog-posts/page/%E8%85%BE%E8%AE%AFDNS%E8%A7%A3%E6%9E%90%E8%BF%9D%E8%A7%84/fc5bpa.webp" alt="解析不生效客服会话记录03"></p><p><img src="https://cdn.lolicon.team/i/img/blog-posts/page/%E8%85%BE%E8%AE%AFDNS%E8%A7%A3%E6%9E%90%E8%BF%9D%E8%A7%84/fdv83o.webp" alt="解析不生效客服会话记录04"></p><p><img src="https://cdn.lolicon.team/i/img/blog-posts/page/%E8%85%BE%E8%AE%AFDNS%E8%A7%A3%E6%9E%90%E8%BF%9D%E8%A7%84/ffrove.webp" alt="解析不生效客服会话记录05"></p><p><a href="https://down-cdn.lolicon.team/Blog-Download/%E5%9F%9F%E5%90%8D%E8%BF%9D%E8%A7%84%E6%95%B4%E6%94%B9%E6%89%BF%E8%AF%BA%E4%B9%A6_CLMYCQJZDWG0.docx">附件：域名违规整改承诺书</a></p><p><img src="https://cdn.lolicon.team/i/img/blog-posts/page/%E8%85%BE%E8%AE%AFDNS%E8%A7%A3%E6%9E%90%E8%BF%9D%E8%A7%84/fooc9q.webp" alt="域名违规整改承诺书内容"></p><p>文件未说明封禁的具体原因，只有单纯的认错，这文件别说给我，给企业都不会签。</p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>腾讯，能不能把你外包的所谓工程师给换成自家的啊？</p>]]></content:encoded>
+      
+      
+      
+      
+      <comments>https://lolicon.team/posts/bd1c2d6b.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>什么是地狱笑话？</title>
@@ -60,12 +79,7 @@
       <guid>https://lolicon.team/posts/32f606a6.html</guid>
       <pubDate>Wed, 22 Jun 2022 02:14:55 GMT</pubDate>
       
-        
-        
-      <description>&lt;link rel=&quot;stylesheet&quot; href=&quot;../css/page.css&quot;&gt;
-
-&lt;div class=&quot;note orange icon-padding flat&quot;&gt;&lt;i class=&quot;note-icon fa-solid fa-arrow-right-from-</description>
-        
+      <description>记反人类UI设计薄荷图床，但是复制会有空格，空格会生成多一个文件夹而且删不掉，只能找客服删除....</description>
       
       
       
